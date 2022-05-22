@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Ismail | Page name</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/css/main.css">
+    </head>
+    <body>
+    <h1>Page name</h1>
+    <div>
+        <p>Dummy text</p>
+    </div>
+    <hr>
+    <div>
+        <h3>Dummy</h3>
+        <p>Text</p>
+    </div>
+    <hr>
+    <div>
+        <h3>Dummy</h3>
+        <p>Text</p>
+    </div>
+    <hr>
+    <div id="google-translate">
+        <h3>Translate this page</h3>
+    </div>
+        
+        <script src="/js/main.js" async defer></script>
+    </body>
+</html>
