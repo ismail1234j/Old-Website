@@ -8,6 +8,7 @@ html {
     line-height: 1.6;
     margin: 50px;
     margin-left: 100px;
+    margin-right: 200px;
 }
 
 p, h1, h2, h3, h4 ,h5, h6, .white{
@@ -19,3 +20,6 @@ hr{
     margin: 0px;
 }
 
+.warning{
+    color: rgb(201, 112, 48);
+}
